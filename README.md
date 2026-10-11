@@ -32,7 +32,7 @@ An ongoing empirical research project examining the relationship between foreign
 - **Tools:** R and econometric methods
 - **Status:** Research and analysis in progress
 
-*Findings and conclusions will be documented after the analysis and robustness checks are completed.*
+*Findings and conclusions will be documented after the analysis are completed.*
 
 ## 🌱 Currently Developing
 
